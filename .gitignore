@@ -1,0 +1,8 @@
+# Environment
+/.idea/
+
+# Generated
+/node_modules/
+/typings/
+/public/scripts/ts/**/*.js
+/public/scripts/ts/**/*.js.map

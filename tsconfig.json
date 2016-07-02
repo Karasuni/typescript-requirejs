@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "module": "amd",
+    "sourceRoot": "/public/scripts/ts/",
+    "noImplicitAny": true,
+    "removeComments": false,
+    "preserveConstEnums": true,
+    "sourceMap": true
+  },
+  "filesGlob": [
+    "typings/index.d.ts",
+    "public/scripts/ts/**/*.ts",
+    "!./node_modules/**/*.ts"
+  ]
+}
